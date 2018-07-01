@@ -1,2 +1,3 @@
 # Predicting-Profits-of-startups-Rproject
 This Repository contains a data of 50 startups and their spends in various fields such as R&amp;D , Administration and Marketing and their annual profits. Using a multiple linear regression model, we find out which is the most statistically significant variable that affects the profit so that investors can get a knowledge of where to invest. The Model is coded in R
+By analysing the P-value with significance level set to 5%, I came to a conclusion that in the existing data, only R&D spend has a statistically significant affect on the profit which is below the 5% mark.
