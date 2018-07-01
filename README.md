@@ -1,0 +1,2 @@
+# Predicting-Profits-of-startups-Rproject
+This Repository contains a data of 50 startups and their spends in various fields such as R&amp;D , Administration and Marketing and their annual profits. Using a multiple linear regression model, we find out which is the most statistically significant variable that affects the profit so that investors can get a knowledge of where to invest. The Model is coded in R
